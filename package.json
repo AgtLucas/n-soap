@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AgtLucas/n-soap/issues"
   },
-  "homepage": "https://github.com/AgtLucas/n-soap"
+  "homepage": "https://github.com/AgtLucas/n-soap",
+  "dependencies": {
+    "node-correios": "^0.1.7"
+  }
 }
