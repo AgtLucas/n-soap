@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/AgtLucas/n-soap",
   "dependencies": {
-    "node-correios": "^0.1.7"
+    "node-correios": "^0.1.7",
+    "extend": "^1.2.1"
   }
 }
