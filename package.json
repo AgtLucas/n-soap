@@ -1,0 +1,19 @@
+{
+  "name": "n-soap",
+  "version": "0.0.0",
+  "description": "Node Correios Sample",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/AgtLucas/n-soap.git"
+  },
+  "author": "Lucas",
+  "license": "I DO NOT CARE!",
+  "bugs": {
+    "url": "https://github.com/AgtLucas/n-soap/issues"
+  },
+  "homepage": "https://github.com/AgtLucas/n-soap"
+}
