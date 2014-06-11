@@ -15,15 +15,15 @@ var nodeCorreios = require('node-correios'),
 
 */
 var args = {
-    nCdServico: '41106',
-    sCepOrigem: '89254105',
-    sCepDestino: '30110013',
-    nVlPeso: '2',
-    nCdFormato: 1,
-    nVlComprimento: 20.0,
-    nVlAltura: 20.0,
-    nVlLargura: 20.0,
-    nVlDiametro: 10.0
+  nCdServico: '41106',
+  sCepOrigem: '89254105',
+  sCepDestino: '30110013',
+  nVlPeso: '2',
+  nCdFormato: 1,
+  nVlComprimento: 20.0,
+  nVlAltura: 20.0,
+  nVlLargura: 20.0,
+  nVlDiametro: 10.0
 };
 
 // Executa o método de pesquisa de valor de frete
